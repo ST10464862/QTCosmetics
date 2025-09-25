@@ -1,16 +1,14 @@
 body {background-color: rgba(208, 215, 183, 0.549);}
-.container{
-    display: flex;
-column-gap: 20px;
+
+
+#img1 {
+  float: left;
+  margin-right: 20px;
+   width: 10%;
+   height:0%; 
+   
 }
-.box-1 {
-height: 200px;
-width: 3000px;
-background-color: orange;
+*{
+    margin:0px;
 }
 
-.box-2 {
-height: 200px;
-width: 3000px;
-background-color: red;
-}
