@@ -1,1 +1,16 @@
-body {background-color: azure;}
+body {background-color: rgba(208, 215, 183, 0.549);}
+.container{
+    display: flex;
+column-gap: 20px;
+}
+.box-1 {
+height: 200px;
+width: 3000px;
+background-color: orange;
+}
+
+.box-2 {
+height: 200px;
+width: 3000px;
+background-color: red;
+}
