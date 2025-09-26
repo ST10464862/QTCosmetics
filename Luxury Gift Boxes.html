@@ -3,7 +3,8 @@
     <head>
 <title>QT Cosmetics | Luxury Gift Boxes</title>
 <link rel="stylesheet" href="css/mystyle.css">
-</head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <style>
 img {
@@ -23,7 +24,24 @@ img {
   padding: 20px;
   font-size: 30px;
 }
+@media only screen and (max-width:800px) {
+  /* For tablets: */
+  .main {
+    width: 80%;
+    padding: 0;
+  }
+  .right {
+    width: 100%;
+  }
+}
+@media only screen and (max-width:500px) {
+  /* For mobile phones: */
+  .menu, .main, .right {
+    width: 100%;
+  }
+}
 </style>
+</head>
 <body>
 
     <!--This is where logo is-->
@@ -40,9 +58,7 @@ img {
 </tr >
 </nav>
 </table>
-
-
-    
+  
 
     
 
