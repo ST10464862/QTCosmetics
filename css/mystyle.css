@@ -95,3 +95,23 @@ p {
   background-color: #DEA612; /* New background color */
   transform: scale(1.05); /* Slightly enlarges the element */
 }
+/* Target all input fields of type text */
+input[type="text"] {
+  width: 180px; /* Set a specific width */
+  height: 20px; /* Set a specific height */
+  font-size: 16px; /* Adjust font size for better readability */
+
+  /* Target all input fields of type number */
+}
+input[type="number"] {
+  width: 180px; /* Set a specific width */
+  height: 20px; /* Set a specific height */
+  font-size: 16px; /* Adjust font size for better readability */
+}
+
+ /* Target all input fields of type comment using ID */
+#myHeader {
+  width: 250px; /* Set a specific width */
+  height: 80px; /* Set a specific height */
+  font-size: 16px; /* Adjust font size for better readability */
+}
