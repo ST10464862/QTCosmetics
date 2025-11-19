@@ -9,6 +9,7 @@ Timeline and Milestones:  The Project will be completed over a period of e month
 Part 1 Details (Part 2 and Part 3 will follow in future submissions/edits)
 Sitemap: The site will be devide into three key sections. Navigation, Body and Footer. 
 Changelog: Begin tracking changes and improvements to the website. (Details have been shared below.)
+
 Part 2 is focusing on adding additional content on the website. Additional products were added for each category. The styling on each page was improved using CSS.Pricing for items has also been included to give the customer an idea of the cost of each item that they are interested in. Flexbox was used within containers. A background color was implemented using CSS that will allow each and every page to have the same feel. A consistent layout was adapted to keep the consistent look and theres now content in the about page to assist customer with questions that they might have.   
 References: 
 Part 2 References
@@ -38,4 +39,11 @@ Emelianova, K. B. a. S., 2024. Chrome DevTools. [Online]
 Available at: https://developer.chrome.com/docs/devtools/css
 [Accessed 26 September 2025].
 
-
+Part 3 Change log
+The following features were added in part 3 of the POE. 
+1. Accordion was added to all the pages. 
+2. Javascripting was also added to the website, making it interactive and using an external link for the index(home) page, the perfumes page and natural kin care page.
+3. A map was also added to give customers direction to where the company is using a interactive map. 
+4. The html structure was also manipulated using DOM to keep up with the interactive feel. a
+5. A Lightbox was alos impletemented on one of the pages, Natural skin Care, to assist making the pictures bigger when zooming in.  
+6. 
