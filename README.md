@@ -46,4 +46,49 @@ The following features were added in part 3 of the POE.
 3. A map was also added to give customers direction to where the company is using a interactive map. 
 4. The html structure was also manipulated using DOM to keep up with the interactive feel. a
 5. A Lightbox was alos impletemented on one of the pages, Natural skin Care, to assist making the pictures bigger when zooming in.  
-6. 
+6. The post request was aloso activated to allow for te hinformation in forms to be sent to a specif email address. 
+7. Search engine optimations was alow enabled to allow for certain key words when used to point a user to this website. 
+8. Forms where added in teh enquiries page to allow for users to post any questions that they might have about the products sold. 
+
+The websites that were used to complete the work for part three are as follows: 
+chatgpt.com
+gemini.google.com
+1. Accordion 
+https://www.youtube.com/watch?v=LqpF8fkKOHU
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_accordion_animate
+2. Tabs
+https://www.youtube.com/watch?v=Ay93z3mZuh8
+3. Modal 
+https://www.youtube.com/watch?v=XH5OW46yO8I
+4. Interactive Maps
+https://www.youtube.com/watch?v=wVnimcQsuwk&t=39s
+https://leafletjs.com/download
+https://cloud.maptiler.com/maps/topo-v2/
+5. Animations and transitions
+https://www.w3schools.com/css/css3_transitions.asp
+https://www.youtube.com/watch?v=z2LQYsZhsFw
+6. DOM Manipulation 
+https://www.youtube.com/watch?v=0GWNq9Cra60
+https://youtu.be/KShnPYN-voI
+7. Lightbox: - Done (with JavaScript)
+https://www.youtube.com/watch?v=uKVVSwXdLr0
+8. Dynamically load content
+https://gemini.google.com/share/6ffa761328bc
+https://formspree.io
+9. Search functionality to filter and sort content
+https://gemini.google.com/share/67af51b2f332
+https://youtu.be/TlP5WIxVirU
+10. Search engine Optimization 
+On-page and off-page optimisation
+https://www.youtube.com/watch?v=MYE6T_gd7H0
+Robots.txt
+https://www.youtube.com/watch?v=RX7B2x3UWUA
+Sitemap
+https://youtu.be/pVFbeGumu5M
+https://www.youtube.com/watch?v=GjEIuy9s4is&t=91s
+Website Page Speed plugin
+https://www.youtube.com/watch?v=udDwVvJU32Y
+Static Websites
+https://www.youtube.com/watch?v=fuuXHbuYqTs
+11. HTML Forms - Done
+https://www.youtube.com/watch?v=VLeERv_dR6Q
